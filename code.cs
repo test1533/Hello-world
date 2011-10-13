@@ -6,5 +6,6 @@ namespace TestProgram
 	class Program
 	{
 		Console.WriteLine("HelloWorld");
+		Console.ReadLine();
 	}	
 }
