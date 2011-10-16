@@ -9,6 +9,7 @@ namespace gitTestProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
         }
     }
 }
